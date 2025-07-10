@@ -1,8 +1,7 @@
 {
   "name": "coze-proxy",
   "version": "1.0.0",
-  "main": "index.js",
-  "license": "MIT",
+  "type": "module",
   "engines": {
     "node": "18.x"
   }
